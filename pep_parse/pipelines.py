@@ -1,7 +1,7 @@
-from itemadapter import ItemAdapter
-import datetime as dt
 import csv
+import datetime as dt
 from collections import defaultdict
+
 from pep_parse.constants import BASE_DIR
 
 
